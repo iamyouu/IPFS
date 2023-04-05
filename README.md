@@ -14,6 +14,7 @@ clone repo
 change Directory
 ```bash
 cd IPFS
+```
 
 Install node modules
 ```bash
